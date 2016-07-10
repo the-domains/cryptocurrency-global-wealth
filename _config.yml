@@ -1,14 +1,14 @@
 layout_spectrum: 0.4110658953431994
-typography_spectrum: 0.499062264803797
+typography_spectrum: 0.7886529886163771
 color:
-  brandStrength: 0.055895281955599785
-  lightness: 0.8870985873509198
-  saturation: 0.15721383783966303
-  rhythmicContrast: 0.7638579071499407
+  brandStrength: 0.5468160468153656
+  lightness: 0.272755327867344
+  saturation: 0.8483455202076584
+  rhythmicContrast: 0.6974378840532154
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Cryptocurrency Global Wealth
