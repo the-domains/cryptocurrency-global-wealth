@@ -28,9 +28,9 @@ app_links: []
 isBasedOnUrl: >-
   http://www.saveur.com/gallery/2015-blog-awards-best-spirits-or-cocktail-coverage?image=3
 title: '2015 Blog Awards: Best Spirits or Cocktail Coverage'
-datePublished: '2016-07-10T09:35:56.605Z'
-dateModified: '2016-07-10T09:23:26.957Z'
-starred: false
+datePublished: '2016-07-10T09:35:58.228Z'
+dateModified: '2016-07-10T09:07:59.099Z'
+starred: true
 sourcePath: _posts/2016-07-10-2015-blog-awards-best-spirits-or-cocktail-coverage.md
 inFeed: true
 hasPage: false
