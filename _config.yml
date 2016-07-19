@@ -14,8 +14,4 @@ layout_spectrum: 0.4110658953431994
 analytics:
   google: UA-72775510-1
 name: Cryptocurrency Global Wealth
-navigation:
-  - id: 'http://cryptocurencyglobalwealth.com'
-    url: 'http://cryptocurencyglobalwealth.com'
-    name: The Basics of Cryptocurrency
-    type: external
+navigation: []
