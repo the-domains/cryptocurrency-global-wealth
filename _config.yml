@@ -14,4 +14,8 @@ layout_spectrum: 0.4110658953431994
 analytics:
   google: UA-72775510-1
 name: Cryptocurrency Global Wealth
-navigation: []
+navigation:
+  - id: 'http://www.cryptocurrencyglobalwealth.com'
+    url: 'http://www.cryptocurrencyglobalwealth.com'
+    name: '"Moving Forward"'
+    type: external
