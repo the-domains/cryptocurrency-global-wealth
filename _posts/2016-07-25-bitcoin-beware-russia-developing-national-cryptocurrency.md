@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-25T08:11:25.911Z'
+datePublished: '2016-07-25T08:16:31.537Z'
+sourcePath: _posts/2016-07-25-bitcoin-beware-russia-developing-national-cryptocurrency.md
 author: []
 via: {}
-dateModified: '2016-07-25T08:10:58.522Z'
+dateModified: '2016-07-25T08:16:30.468Z'
 title: ''
 publisher:
   name: MOSCOW (Sputnik)
 description: 'Bitcoin Beware: Russia Developing National Cryptocurrency'
 starred: false
-sourcePath: _posts/2016-07-25-bitcoin-beware-russia-developing-national-cryptocurrency.md
 inFeed: true
 hasPage: true
 inNav: false
