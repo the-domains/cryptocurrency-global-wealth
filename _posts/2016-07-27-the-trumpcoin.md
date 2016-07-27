@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-27T01:27:46.719Z'
+datePublished: '2016-07-27T01:59:12.888Z'
 isBasedOnUrl: 'http://bitscan.com/articles/trumpcoin-the-donald-on-the-blockchain'
 keywords:
   - trumpcoin
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-27T01:25:02.282Z'
+dateModified: '2016-07-27T01:59:12.796Z'
 title: The Trumpcoin
 app_links: []
 publisher:
@@ -23,8 +23,8 @@ publisher:
   url: 'http://trumpcoin.rocks/'
 description: ' Trumpcoin the Cryptocurrency “Making America Great Again"'
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-07-27-the-trumpcoin.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
