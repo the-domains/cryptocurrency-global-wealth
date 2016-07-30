@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-30T06:52:15.254Z'
 author: []
-via: {}
-dateModified: '2016-07-30T06:52:02.231Z'
-title: ''
+dateModified: '2016-07-30T07:04:44.146Z'
+datePublished: '2016-07-30T07:04:53.360Z'
+description: Is Putin Interested in Bitcoin Finally?
 publisher:
   name: Cryptobiter Bitcoin.com
   url: 'https://news.bitcoin.com/vladimir-putin-speaks-out-in-favor-of/'
-description: Is Putin Interested in Bitcoin Finally?
+title: ''
+via: {}
 starred: false
 sourcePath: _posts/2016-07-30-is-putin-interested-in-bitcoin-finally.md
 inFeed: true
