@@ -1,6 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-30T05:10:20.675Z'
+dateModified: '2016-07-30T05:11:28.690Z'
+datePublished: '2016-07-30T05:12:25.131Z'
 description: Has Bitcoin Matured?
 inFeed: true
 isBasedOnUrl: >-
@@ -10,7 +11,6 @@ publisher:
   url: 'https://news.bitcoin.com/study-bitcoin-economy-matured/'
 title: ''
 via: {}
-datePublished: '2016-07-30T05:10:29.058Z'
 starred: false
 sourcePath: _posts/2016-07-30-today-bitcoin-is-stronger-than-its-hike-in-2013.md
 _context: 'http://schema.org'
@@ -18,7 +18,7 @@ _type: Article
 
 ---
 Has Bitcoin Matured?
-![BITCOIN ready for the next Financial Crash](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71e811f4a34fecb5c859ae363d0083ce/croprotate.png?cropheight=749&cropwidth=1039&degrees=0&input=https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a6edfb4865ee6effca67c0174821f7a13ba4435.png&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d21cad8-0763-4ebc-8b6b-b4d61d5f163a.png)
 
 Is Bitcoin the new safe haven currency?
 
