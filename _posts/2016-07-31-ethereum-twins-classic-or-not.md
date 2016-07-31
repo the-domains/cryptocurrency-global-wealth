@@ -1,13 +1,17 @@
 ---
-datePublished: '2016-07-31T04:31:59.363Z'
 author: []
-via: {}
-dateModified: '2016-07-31T04:31:37.333Z'
-title: ''
+dateModified: '2016-07-31T21:25:59.709Z'
+datePublished: '2016-07-31T21:26:17.902Z'
+description: >-
+  I Just finished listening to David Seaman (Talk Host on Ethereum DS Channel
+  Youtube) and the nostalgia of the attacks coming from the left, right, and
+  centre. Ethereum Classic the split is it another soft fork application working
+  with original Ethereum or against it?
 publisher:
   name: Alyssa Hertig Coindesk
   url: 'http://www.coindesk.com/rise-replay-attacks-ethereum-divide/'
-description: Ethereum Twins? Classic or Not!
+title: ''
+via: {}
 starred: false
 sourcePath: _posts/2016-07-31-ethereum-twins-classic-or-not.md
 inFeed: true
@@ -18,8 +22,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Ethereum Twins? Classic or Not!
-![Rise of Replay Attacks Intensifies Ethereum Divide](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a92f712-3251-4901-b2bc-3a57eb4cebfc.jpg)
+* Ethereum Twins? Classic or Not!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19147678-715b-41ba-b41d-194bea2a2ac2.png)
 
 I Just finished listening to David Seaman (Talk Host on Ethereum DS Channel Youtube) and the nostalgia of the attacks coming from the left, right, and centre. Ethereum Classic the split is it another soft fork application working with original Ethereum or against it?
 
@@ -28,7 +32,7 @@ Listening to David I believe he has the tenacity to say that Ethereum Classic is
 
 I believe the split happened for two reasons,
 
-1. The DAO hack attack severely on Ethereum did a lot of damage. 
+1. The DAO hack attack severely on Ethereum did a lot of damage.
 2. Ethereum Classic was created to gain the remainder loss of the hack or a separate cryptocurrency created to profit separately from Ethereum altogether.
 
 Ethereum market cap today $ 1,022,962,034 valued 31/07/2016 at $12.40 usd. Due to the DAO Attacks and now Ethereum Classic? We don't even know who the founder of Ethereum Classic is, could this be a motivator or not?
