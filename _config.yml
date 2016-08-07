@@ -21,9 +21,8 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/29e49c88-4e60-465d-a43b-473799d1f921.png
 name: Cryptocurrency Global Wealth
 navigation:
-  - id: 'http:www.cryptocurrencyglobalwealth.com'
+  - name: '"Your Digital DNA is Here"'
     url: 'http:www.cryptocurrencyglobalwealth.com'
-    name: '"Your Digital DNA is Here"'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eacf4bf-ee2a-4d8c-bd6e-89d3211a819c.png
