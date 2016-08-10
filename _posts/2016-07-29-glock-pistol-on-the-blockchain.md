@@ -1,19 +1,18 @@
 ---
-author: []
-dateModified: '2016-07-29T18:26:41.292Z'
-datePublished: '2016-07-29T18:26:57.914Z'
-description: What is the Glockchain?
-inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/07e05255-9084-4814-91d9-4295d512902a.png
+title: Glock Pistol on The Blockchain
+datePublished: '2016-08-10T07:32:01.183Z'
+dateModified: '2016-08-10T07:26:58.345Z'
 publisher:
   name: Jamie Redman News.Bitcoin
-title: Glock Pistol on The Blockchain
+author: []
+inFeed: true
+description: What is the Glockchain?
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-07-29-glock-pistol-on-the-blockchain.md
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
 What is the Glockchain?
