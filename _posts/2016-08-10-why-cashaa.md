@@ -2,10 +2,10 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-10T07:26:28.793Z'
-dateModified: '2016-08-10T07:26:26.720Z'
+datePublished: '2016-08-11T16:26:16.667Z'
+dateModified: '2016-08-11T16:26:04.979Z'
 publisher:
-  name: Jamie Redman News.Bitcoin
+  name: Jamie Redman - News.Bitcoin
   url: 'https://news.bitcoin.com/cashaa-free-p2p-global-unbanked/'
 author: []
 inFeed: true
