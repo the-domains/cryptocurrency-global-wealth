@@ -2,9 +2,10 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Is Bitcoin Ready for the Next Global Financial Crisis?
-dateModified: '2016-08-12T07:05:40.164Z'
+datePublished: '2016-08-12T07:07:46.625Z'
+dateModified: '2016-08-12T07:07:43.270Z'
 publisher:
-  name: Allen Scott
+  name: Allen Scott - News.Bitcoin
   url: 'https://news.bitcoin.com/bitcoin-ready-global-financial-crisis/'
 author: []
 inFeed: true
@@ -13,7 +14,6 @@ description: >-
   countries in currency crisis globally. Despite its other shortcomings, bitcoin
   has a use in places like Argentina not so much in Greece.
 via: {}
-datePublished: '2016-08-12T07:05:53.343Z'
 starred: false
 sourcePath: _posts/2016-08-12-is-bitcoin-ready-for-the-next-global-financial-crisis.md
 _type: Blurb
