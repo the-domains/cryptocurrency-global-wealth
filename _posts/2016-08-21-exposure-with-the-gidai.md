@@ -1,13 +1,13 @@
 ---
 title: ''
-dateModified: '2016-08-21T06:00:08.396Z'
+datePublished: '2016-08-21T13:06:17.196Z'
+dateModified: '2016-08-21T13:06:15.653Z'
 publisher:
   name: Michael Borell
   url: 'http://www.cryptocurrencyglobalwealth.com'
 author: []
-description: Exposure with The Gid.Ai
+description: Exposure with The Grid.Ai
 via: {}
-datePublished: '2016-08-21T06:00:47.022Z'
 starred: false
 sourcePath: _posts/2016-08-21-exposure-with-the-gidai.md
 inFeed: true
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-Exposure with The Gid.Ai
+Exposure with The Grid.Ai
 ![MBD - Design](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30286c8e-e5c2-4826-97f4-7770396cdc12.jpg)
 
 The Grid is an importance for my business online, the exposure, class, ingenuity, and innovation The Grid.io Core Developers have done a wondeful job.
