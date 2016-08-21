@@ -1,4 +1,3 @@
-layout_spectrum: 0.7562719471752644
 typography_spectrum: 0.277077215956524
 color:
   brandStrength: 0.8449155623093247
@@ -11,6 +10,7 @@ color:
     - '#2EB2FF'
     - '#6F6F6F'
     - '#343434'
+layout_spectrum: 0.7562719471752644
 analytics:
   google: UA-72775510-1
 author:
@@ -18,12 +18,12 @@ author:
   email: michaelborell@cryptocurrencyglobalwealth.com
   url: 'http://www.cryptocurrencyglobalwealth.com'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29e49c88-4e60-465d-a43b-473799d1f921.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3d6f21e-0d25-41b5-abcd-d9676c578af5.jpg
 name: Cryptocurrency Global Wealth
 navigation:
   - name: '"Your Digital DNA is Here"'
     url: 'http:www.cryptocurrencyglobalwealth.com'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eacf4bf-ee2a-4d8c-bd6e-89d3211a819c.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94972941-2e9a-44a1-9f86-1abe2867b9a5.jpg
 title: Paving the Future towards a "Trust-less Industry"
