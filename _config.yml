@@ -22,6 +22,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3d6f21e-0d25-41b5-abcd-d9676c578af5.jpg
 name: Cryptocurrency Global Wealth
+navigation:
+  - name: YOUR DIGITAL DNA
+    url: 'http://www.cryptocurrencyglobalwealth.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/94972941-2e9a-44a1-9f86-1abe2867b9a5.jpg
 title: The Future in Currency
