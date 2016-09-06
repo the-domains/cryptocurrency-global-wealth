@@ -1,16 +1,16 @@
 layout_spectrum: 0.21216645161621273
-typography_spectrum: 0.23583183018490672
+typography_spectrum: 0.7460507040377706
 color:
-  brandStrength: 0.9756322684697807
-  lightness: 0.7046807743608952
-  saturation: 0.3988760297652334
-  rhythmicContrast: 0.7252445174381137
+  brandStrength: 0.48061675764620304
+  lightness: 0.5328534392174333
+  saturation: 0.45690225972793996
+  rhythmicContrast: 0.943990572122857
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 analytics:
   google: UA-72775510-1
   twitter: 'https://twitter.com/MichaelBorell1'
