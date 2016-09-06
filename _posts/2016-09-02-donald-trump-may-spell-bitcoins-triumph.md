@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-09-02T14:36:16.454Z'
+datePublished: '2016-09-03T04:49:45.891Z'
+sourcePath: _posts/2016-09-02-donald-trump-may-spell-bitcoins-triumph.md
 author: []
 via: {}
-dateModified: '2016-09-02T14:36:13.130Z'
+dateModified: '2016-09-03T04:49:43.671Z'
 title: Donald Trump May Spell Bitcoin’s Triumph
 publisher:
   name: Gautham - NewsBtc
@@ -13,7 +14,6 @@ description: >-
   transaction volumes this year if Donald Trump's prospects of winning the
   presidential elections increases. 
 starred: false
-sourcePath: _posts/2016-09-02-donald-trump-may-spell-bitcoins-triumph.md
 inFeed: true
 hasPage: true
 inNav: false
