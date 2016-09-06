@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-03T04:53:31.264Z'
+datePublished: '2016-09-03T04:55:55.499Z'
 sourcePath: _posts/2016-09-02-donald-trump-may-spell-bitcoins-triumph.md
 author: []
 via: {}
-dateModified: '2016-09-03T04:53:30.294Z'
+dateModified: '2016-09-03T04:55:54.673Z'
 title: Trump For Bitcoin’s Triumph
 publisher:
   name: Gautham - NewsBtc
