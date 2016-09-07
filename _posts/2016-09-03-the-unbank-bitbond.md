@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-03T06:38:32.490Z'
+datePublished: '2016-09-03T06:51:53.471Z'
 sourcePath: _posts/2016-09-03-the-unbank-bitbond.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-03T06:38:31.534Z'
+dateModified: '2016-09-03T06:51:52.655Z'
 title: The Unbank Bitbond
 publisher:
-  name: 'Michael Borell '
+  name: Michael Borell - Bitbond Loans for Small Business
   url: 'https://www.bitbond.com/resources/loans/small-business-loans/?a=3D6GCR85Q4'
 at__context: 'http://schema.org'
 description: >-
