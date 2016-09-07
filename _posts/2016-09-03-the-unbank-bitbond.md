@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-03T06:34:39.188Z'
+datePublished: '2016-09-03T06:38:32.490Z'
 sourcePath: _posts/2016-09-03-the-unbank-bitbond.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-03T06:34:38.414Z'
+dateModified: '2016-09-03T06:38:31.534Z'
 title: The Unbank Bitbond
 publisher:
   name: 'Michael Borell '
-  url: 'https://youtu.be/jc2aEoJzqqw'
+  url: 'https://www.bitbond.com/resources/loans/small-business-loans/?a=3D6GCR85Q4'
 at__context: 'http://schema.org'
 description: >-
   What is Unbank? It is the effective and simple way of getting a loan up to 10k
